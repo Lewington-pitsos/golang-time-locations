@@ -1,6 +1,7 @@
 # Legal location strings for the https://golang.org/pkg/time package
 
 Africa/Abidjan
+
 Africa/Accra
 Africa/Addis_Ababa
 Africa/Algiers
